@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(rgba(21, 73, 115, 0.80),rgba(65, 100, 147, 0.81)),url('https://www.irishtimes.com/polopoly_fs/1.2443559.1448628882!/image/image.jpg_gen/derivatives/box_620_330/image.jpg');
+  background-color: rgba(28, 73, 120, 0.72);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+h1,h3,p {
+  color: #f0f1f9;
+}
